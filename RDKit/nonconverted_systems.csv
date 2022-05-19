@@ -1,0 +1,64 @@
+,DOI,Formula,Organic,Space-group,Dimensionality,Smiles,Add charge
+46, 10.1039/c2ce06498g,  [C13H16N2]Pb2I6,"Diphenylmethane - 4,4'-diammonium",Fdd2,0D,,True
+69, 10.1002/anie.201309786,  [N4H40C16]Pb1Br4,4-aminobutylene protonated,P21/c,2D,,True
+83, 10.1039/b819455f,  [C6H16N2]Pb1I4,Сyclopropylammonium,P21/c,2D,,True
+84, 10.1039/b819455f,  [C6H16N2]Pb1Br4,Сyclopropylammonium,P21/c,2D,,True
+90, 10.1039/b819455f,  [C6H16N2]Pb1Cl4,Сyclopropylammonium,P21/c,2D,,True
+129, 10.1039/b205543k,  [S2C11N4H16]Pb2I7,2-(2-thienyl)methylaminium,Aba2,2D,,True
+130, 10.1039/b205543k,  [S4C10H16N2]Pb1I4,2-(2-thienyl)methylaminium,Pbca,2D,,True
+154, 10.1021/jacs.8b03659,  [O2N2H40C40]Pb1I6,Pyrene-O-buthylammonium,C2/c,2D,,True
+221, 10.1039/C8SC03863E,  [N2H48C14]Pb1I4,1-mehyl-propylammonium ,P42/ncm,2D,,True
+234, 10.1021/cm702405c,  [N2C5]Sn1I4,"1,5-pentyldiammonium",C2/c,2D,,True
+243, 10.1021/ic0261981,  [N2C7]Sn1I4,2-trimethylammoniumethylammonium,Сmca,2D,,True
+244, 10.1039/b007639m,  [C6N4H8]Pb1I4,"2,2'-biimidazolium",C2/c,2D,,True
+245, 10.1039/b007639m,  [N4H6C6]Sn1I4,"2,2'-biimidazolium",C2/c,NP,,True
+271, 10.1039/a905323i,  [N7H47C20]Sn3I12,"1,5-pentyldiammonium",Pbcn,2D,,True
+272, 10.1021/acs.chemmater.8b02232,  []Cs2Sn1I2Cl2,"1,5-pentyldiammonium",I4/mmm,NP,,True
+273, 10.1021/acs.chemmater.8b02232,  []Sn3Cs4Rb0I2Cl8,"1,5-pentyldiammonium",Cmcm,NP,,True
+274, 10.1021/acs.chemmater.8b02232,  []Sn3Rb9I8Cl7,"1,5-pentyldiammonium",P63mc,NP,,True
+279, 10.1016/0301-0104(75)80098-X,  []Mn1Cl4,"1,3-propyldiammonium",Imma,NP,,True
+284, 10.1002/anie.201811497,  [N20H46C40]Sn5I20,Benzodiimidazolium,C2/m,2D,,True
+285, 10.1002/anie.201811497,  [N4H9C8]Pb1I4,Benzodiimidazolium,C2/m,2D,,True
+331, 10.1021/jacs.7b01312,  [N2H18C6]Pb1Br4,2-(dimethylamino)buthylammonium,Aba2,2D,,True
+334, 10.1002/adfm.201904810,  [N7H102C54]Sn2I11F4,2-(4-(3-fluoro)stilbenyl)ethanammonium,C2/m,2D,,True
+335, 10.1002/adfm.201904810,  [N6H88C70]Sn2I11F4,2-(4-(3-fluoro)stilbenyl)ethanammonium,P-1,2D,,True
+337, 10.1002/adfm.201904810,  [C68H96N8]Sn1I6F4,2-(4-(3-fluoro)stilbenyl)ethanammonium,P-1,2D,,True
+338, 10.1002/adfm.201904810,  [N6H78C60]Sn1I6F4,2-(4-(3-fluoro)stilbenyl)ethanammonium,C2/m,2D,,True
+386, 10.1021/ic50166a042,  [N2C3H12]Cu1Cl4,"1,3-propyldiammonium",Pnma,0D,,True
+387, 10.1002/pssa.2211430202,  [N2C4]Pb1Cl4,"1,4-butyldiamine",P21/c,2D,,True
+388, 10.1016/0022-3697(94)90210-0,  [N2C4]Cd1Cl4,"1,4-butyldiamine",P21/c (P21/a),2D,,True
+389, 10.1016/0022-3697(94)90210-0,  [N4C8]Cd1Cl4,"1,4-butyldiamine",Pmna,2D,,True
+390, 10.1016/0022-3697(94)90210-0,  [N2C4]Cd1Cl4,"1,4-butyldiamine",P21/c (P21/a),2D,,True
+393, 10.1107/S0108270188009060,  [N2C3H12]Cu1Br4,"1,3-propyldiammonium",P21/c (P21/n),0D,,True
+396, 10.1107/S0108270189012680,  [N2C4H14]Cu1Cl4,"1,4-butyldiamine",P21/c (P21/a),0D,,True
+397, 10.1107/S0108270189012680,  [N2C4H14]Cu1Br4,"1,4-butyldiamine",P21/c (P21/a),0D,,True
+398, 10.1107/S0108270189012680,  [N2C5H16]Cu1Cl4,"1,5-pentyldiammonium",P21/c (P21/n),0D,,True
+399, 10.1107/S0108270189012680,  [N2C5H11]Cu1Br4,"1,5-pentyldiammonium",P21/c (P21/n),0D,,True
+434, 10.1039/B504342E,  [O4C8H20N2]Pb1I4,ammonium 4-butyric acid,Pbca,2D,,True
+435, 10.1039/B504342E,  [O4C9H18N4]Pb2I7,ammonium 4-butyric acid,Aba2 (C2cb),2D,,True
+458, 10.1002/adma.201808088,  [N2H22C16]Pb1I4Cl2,R-1-(4-chlorophenyl)ethylammonium,P1,2D,,True
+459, 10.1002/adma.201808088,  [N2H22C16]Pb1I4Cl2,S-1-(4-chlorophenyl)ethylammonium,P-1,2D,,True
+474, 10.1021/jacs.9b06815,  [N6H47C38]Pb4I23,R1-phenylethylammonium,P1,2D,,True
+475, 10.1021/jacs.9b06815,  [N18H160C114]Pb12I45,S1-phenylethylammonium,P1,2D,,True
+538, 10.1021/acs.chemmater.0c02729,  [N2H28C18]Cu1Cl6,R-β-methylphenethylamine,C2,2D,,True
+539, 10.1021/acs.chemmater.0c02729,  [N2H28C18]Cu1Cl6,S-β-methylphenethylamine,C2,2D,,True
+542, 10.1038/s41467-020-18485-7,  [C12H14N1]Pb1I3,S-1-(1-naphthyl)ethylammonium,P21 21 21,1D,,True
+545, 10.1038/s41467-020-18485-7,  [C24H28N2]Pb1Br4,S-1-(1-naphthyl)ethylammonium,P 21,2D,,True
+546, 10.1038/s41467-020-18485-7,  [C16H24N2]Pb1I4,R-1-(1-naphthyl)ethylamine,P21 21 21,2D,,True
+554, https://doi.org/10.1021/jacs.0c03899,  [N2H24C16]Sn1I4,R-methylbenzylammonium,Pnma,0D,,True
+555, https://doi.org/10.1021/jacs.0c03899,  [N2H24C16]Sn1I4,S-methylbenzylammonium,P21 21 21,0D,,True
+561, 10.31635/ccschem.020.202000484,  [N5H13C4]Pb1Br4,"N,N-dimethylbiguanidinium",P21/c,2D,,True
+602, 10.5517/ccdc.csd.cc22yd8q,  [O2N2H36C28]Pb1I4,4-[(Naphthalen-1-yl)oxy]butyl-1-ammonium,Pca21,2D,,True
+604, 10.1021/ic980893k,  [N2C3]Pb1Cl4,"1,3-propyldiammonium",P212121,2D,,True
+610, 10.1002/ejic.202000900,  [C15H36N3O6]Pb1Br4,5-carboxipentylammonium,P21/n,2D,,True
+629, 10.1039/D0QM00118J,  [N2H20C16]Pb1I4Cl4,"2-(3,5-Dichlorophenyl)ethyl-1-ammonium",P21/c,2D,,True
+630, 10.1039/D0QM00118J,  [N2H20C16]Pb1I4Br4,"2-(3,5-Dibromophenyl)ethyl-1-ammonium",P21/c,2D,,True
+631, 10.1039/D0QM00118J,  [N2H32C20]Pb1I4,"2-(3,5-Dimethylphenyl)ethyl-1-ammonium",P21/c,2D,,True
+635, 10.1002/ejic.202000900,  [C10H24N2O4]Pb1Cl4,4-carboxibutylammonium,P-1,2D,,True
+636, 10.1021/ic034235y,  [S6C14H14N2]Pb1I4,"2-([2,2'-bithiophen]-5-yl)ethyl-1-ammonium",P-1,2D,,True
+638, 10.1021/ic034235y,  [S9N3H36C30]Bi2I9,"2-([2,2'-bithiophen]-5-yl)ethyl-1-ammonium",P212121,0D,,True
+644, 10.5517/ccdc.csd.cc25hpq3,  [N2H28C18O2]Pb1I4,2-(4-Methoxyphenyl)ethyl-1-ammonium,P-1,2D,,True
+645, 10.5517/ccdc.csd.cc20hdgd,  [N1H15C14S3]Pb1I3,"2-([2,2'-bithiophen]-5-yl)ethyl-1-ammonium",P1,2D,,True
+720,10.1039/B917824D,  [C6H20N2O2]Pb1I4,3-ammoniumpropan-1-ol,P 21/c,2 D,,True
+721,10.1039/c2ce06498g,  [C6H22N2]Pb1I4,"1,4-diammoniumbutane",C 2/c,2 D,,True
+733,10.1107/S160053681001682X,  [C8H20N2]Pb1I4,"1,4-bis(ammoniummethyl)cyclohexane",P 21/c,2 D,,True
